@@ -1,5 +1,20 @@
+<!DOCTYPE html>
 <html>
-  <body>
-    <h1>Merhaba, bu benim ilk sitem!</h1>
-  </body>
+<head>
+    <title>Benim Sitem</title>
+</head>
+<body>
+    <h1>Hoş Geldin!</h1>
+    <p>Bu benim kendi yaptığım ilk web sitem.</p>
+    
+    <h2>İlgi Alanlarım</h2>
+    <ul>
+        <li>Brawl Stars (Edgar, 8-Bit, Moe)</li>
+        <li>PUBG Mobile (4-finger claw)</li>
+        <li>Dreamcore ve Weirdcore tasarımları</li>
+    </ul>
+
+    <a href="https://github.com/omernaberogul-sketch">GitHub Profilim</a>
+</body>
 </html>
+
